@@ -1,9 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pickle
-import os
-import re
+import matplotlib
+matplotlib.use('Agg')  # headless backend — required for Streamlit Cloud
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import seaborn as sns
