@@ -15,8 +15,12 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import (confusion_matrix, accuracy_score, f1_score,
                               precision_score, recall_score, classification_report)
+import os
 import warnings
 warnings.filterwarnings('ignore')
+
+# Always resolve paths relative to this script's location
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -128,7 +132,7 @@ PLOTLY_BASE = dict(
 # ── Train all models (cached) ─────────────────────────────────────────────────
 @st.cache_resource(show_spinner=False)
 def train_models():
-    df = pd.read_csv("Cleaned_Resumes.csv")
+    df = pd.read_csv(os.path.join(BASE_DIR, "Cleaned_Resumes.csv"))
     x = df["Resume_Details"].values
     y = df["Category"].values
     x_train, x_test, y_train, y_test = train_test_split(
