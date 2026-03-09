@@ -143,29 +143,25 @@ App opens at `http://localhost:8501` 🎉
 
 ```
 resume-classification/
-├── app.py                    ← Streamlit app
-├── Cleaned_Resumes.csv       ← Dataset (79 resumes)
-├── requirements.txt          ← Dependencies
-├── setup.py / setup.cfg      ← Package config
-├── README.md                 ← This file
-├── LICENSE                   ← MIT License
-├── configs/
-│   ├── model_config.yaml     ← Model hyperparameters
-│   └── app_config.yaml       ← UI settings
-├── scripts/
-│   ├── train.py              ← Train all 9 models
-│   ├── predict.py            ← CLI predictor
-│   └── evaluate.py           ← Evaluation metrics
-├── doc/
-│   ├── HLD.md                ← High Level Design
-│   └── LLD.md                ← Low Level Design
-├── demo/demo.py              ← Quick demo script
-├── examples/example_usage.py ← Code examples
-├── notebooks/
+│
+├── app.py                         ← Streamlit app
+├── Cleaned_Resumes.csv            ← Dataset (79 resumes)
+├── requirements.txt               ← Dependencies
+├── README.md                      ← This file
+│
+├── notebooks/                     ← Jupyter notebooks
 │   ├── classification_eda.ipynb
 │   └── model_building1.ipynb
-├── pretrained_models/
-└── screenshots/              ← App screenshots
+│
+├── data/                          ← Raw & processed data
+│
+├── screenshots/                   ← App screenshots
+│   ├── classify.png
+│   ├── models.png
+│   ├── accuracy_chart.png
+│   └── confusion_matrix.png
+│
+└── images/                        ← README display images
 ```
 
 ---
