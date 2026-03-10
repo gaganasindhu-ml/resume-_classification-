@@ -9,7 +9,7 @@
 
 > End-to-end NLP pipeline that reads raw resume text and instantly predicts the candidate's job category — trained on 9 ML classifiers, deployed live on Streamlit Cloud.
 
-🚀 **[Open Live App](#)** &nbsp;|&nbsp; 📄 **[Project Report](#)** &nbsp;|&nbsp; ⭐ **Star this repo if you found it helpful!**
+🚀 **[Open Live App](https://customerchurntelecom-qlhhzokxrbhccgc5numfni.streamlit.app/)** &nbsp;|&nbsp; 📄 **[Project Report](#)** &nbsp;|&nbsp; ⭐ **Star this repo if you found it helpful!**
 
 ---
 
