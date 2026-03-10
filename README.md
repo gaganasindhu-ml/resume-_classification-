@@ -17,7 +17,7 @@
 
 | 🔍 Classify Resume | 📊 Model Performance |
 |:---:|:---:|
-| ![Classify](screenshots/classify.png) | ![Models](screenshots/models.png) |
+| ![Classify]([screenshots/classify.png](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/model_comparision.png)) | ![Models](screenshots/models.png) |
 
 | 📈 Accuracy Chart | 🔥 Confusion Matrix |
 |:---:|:---:|
