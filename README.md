@@ -17,11 +17,11 @@
 
 | 🔍 Classify Resume | 📊 Model Performance |
 |:---:|:---:|
-| ![Classify]([[screenshots/classify.png](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/app.png)](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/model_comparision.png)) | ![Models]([screenshots/models.png](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/app.png)) |
+| ![Classify]([[screenshots/classify.png](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/app.png)](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/model_comparision.png)) | ![Models]([[screenshots/models.png](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/model_comparision.png)](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/app.png)) |
 
 | 📈 Accuracy Chart | 🔥 Confusion Matrix |
 |:---:|:---:|
-| ![Chart](screenshots/accuracy_chart.png) | ![Matrix](screenshots/confusion_matrix.png) |
+| ![Chart]([screenshots/accuracy_chart.png](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/accuracy_comparision.png)) | ![Matrix]([screenshots/confusion_matrix.pn](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/confusion%20matrix.png) |
 
 ---
 
