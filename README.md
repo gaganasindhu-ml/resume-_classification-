@@ -17,11 +17,11 @@
 
 | 🔍 Classify Resume | 📊 Model Performance |
 |:---:|:---:|
-| ![Classify]((https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/app.png?raw=true)) | ![Models]((https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/prediction_result.png?raw=true)) |
+| ![Classify](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/app.png?raw=true) | ![Models](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/prediction_result.png?raw=true) |
 
 | 📈 Accuracy Chart | 🔥 Confusion Matrix |
 |:---:|:---:|
-| ![Chart]((https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/model_comparision.png?raw=true)) | ![Matrix]((https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/confusion%20matrix.png?raw=true)) |
+| ![Chart](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/model_comparision.png?raw=true) | ![Matrix](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/confusion%20matrix.png?raw=true) |
 
 ---
 
