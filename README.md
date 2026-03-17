@@ -9,21 +9,19 @@
 
 > End-to-end NLP pipeline that reads raw resume text and instantly predicts the candidate's job category — trained on 9 ML classifiers, deployed live on Streamlit Cloud.
 
-🚀 **[Open Live App](https://customerchurntelecom-qlhhzokxrbhccgc5numfni.streamlit.app/)** &nbsp;|&nbsp; 📄 **[Project Report](#)** &nbsp;|&nbsp; ⭐ **Star this repo if you found it helpful!**
+🚀 **[Open Live App](#)** &nbsp;|&nbsp; 📄 **[Project Report](#)** &nbsp;|&nbsp; ⭐ **Star this repo if you found it helpful!**
 
 ---
 
 ## 📸 App Screenshots
 
-## 📸 App Screenshots
-
 | 🔍 Classify Resume | 📊 Model Performance |
 |:---:|:---:|
-| ![Classify]([screenshot/app.png](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/app.png)) | ![Models]([screenshot/model_comparision.png](https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/model_comparision.png)) |
+| ![Classify]((https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/app.png?raw=true)) | ![Models]((https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/prediction_result.png?raw=true)) |
 
 | 📈 Accuracy Chart | 🔥 Confusion Matrix |
 |:---:|:---:|
-| (https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/accuracy_comparision.png?raw=true))| !(https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/confusion%20matrix.png) |
+| ![Chart]((https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/model_comparision.png?raw=true)) | ![Matrix]((https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/confusion%20matrix.png?raw=true)) |
 
 ---
 
