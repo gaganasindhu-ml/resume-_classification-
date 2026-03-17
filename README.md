@@ -23,7 +23,7 @@
 
 | 📈 Accuracy Chart | 🔥 Confusion Matrix |
 |:---:|:---:|
-| (https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/accuracy_comparision.png)| !(https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/confusion%20matrix.png) |
+| (https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/accuracy_comparision.png?raw=true))| !(https://github.com/gaganasindhu-ml/resume-_classification-/blob/main/screenshot/confusion%20matrix.png) |
 
 ---
 
